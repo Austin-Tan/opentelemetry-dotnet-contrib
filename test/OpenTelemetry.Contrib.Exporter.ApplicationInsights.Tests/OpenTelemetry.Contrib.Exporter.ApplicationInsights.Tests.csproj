@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\opentelemetry-dotnet-contrib\OpenTelemetry.Contrib.Exporter.ApplicationInsightsSampler\OpenTelemetry.Contrib.Exporter.ApplicationInsightsSampler.csproj" />
+    <ProjectReference Include="..\opentelemetry-dotnet-contrib\src\OpenTelemetry.Contrib.Exporter.ApplicationInsights\OpenTelemetry.Contrib.Exporter.ApplicationInsights.csproj" />
   </ItemGroup>
 
 </Project>
